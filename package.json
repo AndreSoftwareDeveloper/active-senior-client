@@ -2,7 +2,7 @@
   "name": "active-senior-client",
   "version": "1.0.0",
   "description": "Goal of this app is to ease elderly socializing with the society.",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "test"
   },
