@@ -4,6 +4,7 @@
   "description": "Goal of this app is to ease elderly socializing with the society.",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "test"
   },
   "repository": {
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/AndreSoftwareDeveloper/active-senior-client/issues"
   },
-  "homepage": "https://github.com/AndreSoftwareDeveloper/active-senior-client#readme"
+  "homepage": "https://github.com/AndreSoftwareDeveloper/active-senior-client#readme",
+  "devDependencies": {
+    "electron": "^31.0.2"
+  },
+  "dependencies": {
+    "electron-fetch": "^1.9.1"
+  }
 }
