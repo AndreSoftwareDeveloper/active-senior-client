@@ -1,0 +1,221 @@
+.flowstep14-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.flowstep14-flowstep14 {
+  width: 100%;
+  height: 640px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-lightgrey);
+}
+.flowstep14-topbar {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 4px 0px rgba(19, 19, 19, 0.10000000149011612);
+  align-items: flex-start;
+}
+.flowstep14-topbararrowback {
+  gap: 6px;
+  width: 360px;
+  height: 64px;
+  display: flex;
+  padding: 8px 4px;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-white);
+}
+.flowstep14-leadingicon {
+  gap: 10px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.flowstep14-container1 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 100px;
+  justify-content: center;
+}
+.flowstep14-statelayer {
+  gap: 10px;
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  justify-content: center;
+}
+.flowstep14-iconarrowback {
+  width: 24px;
+  height: 24px;
+}
+.flowstep14-text {
+  color: var(--dl-color-m3_sys_light-onsurface);
+  height: auto;
+  flex-grow: 1;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: HarmonyOS Sans;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep14-iconlogosafespace {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.flowstep14-iconlogo {
+  top: 12px;
+  left: 12px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.flowstep14-text02 {
+  top: 88px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  width: 312px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: HarmonyOS Sans;
+  font-weight: 500;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep14-button {
+  gap: 8px;
+  top: 544px;
+  left: 24px;
+  width: 312px;
+  height: 72px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 15px 0px rgba(5, 46, 114, 0.25);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: space-between;
+  background-color: var(--dl-color-default-middleblue);
+}
+.flowstep14-text04 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: HarmonyOS Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep14-text06 {
+  top: 237px;
+  left: 36px;
+  color: rgba(0, 0, 0, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: HarmonyOS Sans;
+  font-weight: 500;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep14-buttontile {
+  top: 292px;
+  left: 24px;
+  width: 312px;
+  height: 56px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 30px 0px rgba(19, 19, 19, 0.10000000149011612);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-default-white);
+}
+.flowstep14-text08 {
+  top: 13px;
+  left: 124px;
+  color: rgba(100, 100, 100, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep14-iconexpand {
+  top: 16px;
+  left: 272px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.flowstep14-frame7 {
+  gap: 4px;
+  top: 464px;
+  left: 24px;
+  width: 312px;
+  display: flex;
+  padding: 16px 8px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: var(--dl-color-default-lightblue);
+}
+.flowstep14-micline {
+  width: 24px;
+  height: 24px;
+}
+.flowstep14-text10 {
+  color: var(--dl-color-default-darkblue);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: HarmonyOS Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

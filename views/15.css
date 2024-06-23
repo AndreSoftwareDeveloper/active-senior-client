@@ -1,0 +1,926 @@
+.flowstep15-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.flowstep15-flowstep15 {
+  width: 100%;
+  height: 640px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-lightgrey);
+}
+.flowstep15-topbar {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 4px 0px rgba(19, 19, 19, 0.10000000149011612);
+  align-items: flex-start;
+}
+.flowstep15-topbararrowback {
+  gap: 6px;
+  width: 360px;
+  height: 64px;
+  display: flex;
+  padding: 8px 4px;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-white);
+}
+.flowstep15-leadingicon {
+  gap: 10px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.flowstep15-container1 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 100px;
+  justify-content: center;
+}
+.flowstep15-statelayer {
+  gap: 10px;
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  justify-content: center;
+}
+.flowstep15-iconarrowback {
+  width: 24px;
+  height: 24px;
+}
+.flowstep15-text {
+  color: var(--dl-color-m3_sys_light-onsurface);
+  height: auto;
+  flex-grow: 1;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: HarmonyOS Sans;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep15-iconlogosafespace {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.flowstep15-iconlogo {
+  top: 12px;
+  left: 12px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.flowstep15-text02 {
+  top: 417px;
+  left: 24px;
+  color: var(--dl-color-default-black);
+  width: 312px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: HarmonyOS Sans;
+  font-weight: 500;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep15-button {
+  gap: 8px;
+  top: 544px;
+  left: 24px;
+  width: 312px;
+  height: 72px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: space-between;
+}
+.flowstep15-text04 {
+  color: var(--dl-color-default-middleblue);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: HarmonyOS Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep15-illustration {
+  top: 88px;
+  left: 24px;
+  width: 312px;
+  height: 312px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.flowstep15-timemanagementrafiki1 {
+  top: 0px;
+  left: 0px;
+  width: 312px;
+  height: 312px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.flowstep15-freepikbackgroundcompleteinject33 {
+  top: 34.31999969482422px;
+  left: 0px;
+  width: 312px;
+  height: 216.1910400390625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.flowstep15-vector {
+  top: 204.29759216308594px;
+  left: 0px;
+  width: 312px;
+  height: 1px;
+  position: absolute;
+}
+.flowstep15-vector01 {
+  top: 214.33775329589844px;
+  left: 260.0707092285156px;
+  width: 21px;
+  height: 1px;
+  position: absolute;
+}
+.flowstep15-vector02 {
+  top: 216.0350341796875px;
+  left: 201.2587127685547px;
+  width: 5px;
+  height: 1px;
+  position: absolute;
+}
+.flowstep15-vector03 {
+  top: 208.54702758789062px;
+  left: 247.47215270996094px;
+  width: 12px;
+  height: 1px;
+  position: absolute;
+}
+.flowstep15-vector04 {
+  top: 209.59536743164062px;
+  left: 32.73503875732422px;
+  width: 27px;
+  height: 1px;
+  position: absolute;
+}
+.flowstep15-vector05 {
+  top: 209.59536743164062px;
+  left: 65.24543762207031px;
+  width: 4px;
+  height: 1px;
+  position: absolute;
+}
+.flowstep15-vector06 {
+  top: 212.2286376953125px;
+  left: 82.03727722167969px;
+  width: 58px;
+  height: 1px;
+  position: absolute;
+}
+.flowstep15-vector07 {
+  top: 3.0517577442878974e-7px;
+  left: 23.84303855895996px;
+  width: 128px;
+  height: 176px;
+  position: absolute;
+}
+.flowstep15-vector08 {
+  top: 3.0517577442878974e-7px;
+  left: 158.80799865722656px;
+  width: 128px;
+  height: 176px;
+  position: absolute;
+}
+.flowstep15-vector09 {
+  top: 204.29759216308594px;
+  left: 126.35375213623047px;
+  width: 85px;
+  height: 179px;
+  position: absolute;
+}
+.flowstep15-vector10 {
+  top: 204.29759216308594px;
+  left: 124.47551727294922px;
+  width: 85px;
+  height: 179px;
+  position: absolute;
+}
+.flowstep15-vector11 {
+  top: 29.13456153869629px;
+  left: 121.09967803955078px;
+  width: 171px;
+  height: 78px;
+  position: absolute;
+}
+.flowstep15-vector12 {
+  top: 29.13456153869629px;
+  left: 61.12079620361328px;
+  width: 42px;
+  height: 171px;
+  position: absolute;
+}
+.flowstep15-vector13 {
+  top: 29.134557723999023px;
+  left: 44.603515625px;
+  width: 171px;
+  height: 1px;
+  position: absolute;
+}
+.flowstep15-vector14 {
+  top: 49.07136154174805px;
+  left: 123.07776641845703px;
+  width: 82px;
+  height: 5px;
+  position: absolute;
+}
+.flowstep15-vector15 {
+  top: 100.46399688720703px;
+  left: 171.11952209472656px;
+  width: 104px;
+  height: 34px;
+  position: absolute;
+}
+.flowstep15-vector16 {
+  top: 103.49664306640625px;
+  left: 169.2412872314453px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.flowstep15-vector17 {
+  top: 136.66224670410156px;
+  left: 169.2412872314453px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.flowstep15-vector18 {
+  top: 169.8278350830078px;
+  left: 169.2412872314453px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.flowstep15-vector19 {
+  top: 103.09728240966797px;
+  left: 147.2638397216797px;
+  width: 13px;
+  height: 3px;
+  position: absolute;
+}
+.flowstep15-vector20 {
+  top: 136.26287841796875px;
+  left: 147.26400756835938px;
+  width: 13px;
+  height: 3px;
+  position: absolute;
+}
+.flowstep15-vector21 {
+  top: 169.428466796875px;
+  left: 147.26400756835938px;
+  width: 13px;
+  height: 3px;
+  position: absolute;
+}
+.flowstep15-vector22 {
+  top: 100.46399688720703px;
+  left: 188.19215393066406px;
+  width: 104px;
+  height: 17px;
+  position: absolute;
+}
+.flowstep15-vector23 {
+  top: 201.7454376220703px;
+  left: 271.8643493652344px;
+  width: 9px;
+  height: 78px;
+  position: absolute;
+}
+.flowstep15-vector24 {
+  top: 204.29759216308594px;
+  left: 270.5539245605469px;
+  width: 91px;
+  height: 3px;
+  position: absolute;
+}
+.flowstep15-vector25 {
+  top: 123.57071685791016px;
+  left: 178.2206268310547px;
+  width: 84px;
+  height: 78px;
+  position: absolute;
+}
+.flowstep15-vector26 {
+  top: 151.02047729492188px;
+  left: 185.5713653564453px;
+  width: 69px;
+  height: 18px;
+  position: absolute;
+}
+.flowstep15-vector27 {
+  top: 173.702880859375px;
+  left: 185.5713653564453px;
+  width: 69px;
+  height: 18px;
+  position: absolute;
+}
+.flowstep15-vector28 {
+  top: 154.36512756347656px;
+  left: 210.6748809814453px;
+  width: 19px;
+  height: 4px;
+  position: absolute;
+}
+.flowstep15-vector29 {
+  top: 128.3380889892578px;
+  left: 185.5713653564453px;
+  width: 69px;
+  height: 18px;
+  position: absolute;
+}
+.flowstep15-vector30 {
+  top: 131.7139129638672px;
+  left: 210.6748809814453px;
+  width: 19px;
+  height: 4px;
+  position: absolute;
+}
+.flowstep15-vector31 {
+  top: 177.1036834716797px;
+  left: 210.6748809814453px;
+  width: 19px;
+  height: 4px;
+  position: absolute;
+}
+.flowstep15-vector32 {
+  top: 123.57071685791016px;
+  left: 262.3795166015625px;
+  width: 86px;
+  height: 4px;
+  position: absolute;
+}
+.flowstep15-vector33 {
+  top: 119.60208129882812px;
+  left: 262.3857421875px;
+  width: 11px;
+  height: 4px;
+  position: absolute;
+}
+.flowstep15-vector34 {
+  top: 45.692012786865234px;
+  left: 200.3487548828125px;
+  width: 33px;
+  height: 69px;
+  position: absolute;
+}
+.flowstep15-vector35 {
+  top: 33.832862854003906px;
+  left: 216.93133544921875px;
+  width: 34px;
+  height: 82px;
+  position: absolute;
+}
+.flowstep15-vector36 {
+  top: 105.04415893554688px;
+  left: 199.1246337890625px;
+  width: 49px;
+  height: 15px;
+  position: absolute;
+}
+.flowstep15-freepik-shadowinject33 {
+  top: 252.6700897216797px;
+  left: 35.01264190673828px;
+  width: 241.9747314453125px;
+  height: 14.127349853515625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.flowstep15-freepikpathinject33 {
+  top: 0px;
+  left: 0px;
+  width: 242px;
+  height: 14px;
+  position: absolute;
+}
+.flowstep15-freepik-hourglassinject33 {
+  top: 126.62207794189453px;
+  left: 142.1908721923828px;
+  width: 86.32415771484375px;
+  height: 131.5080108642578px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.flowstep15-group {
+  top: 3.6192028522491455px;
+  left: 3.4195315837860107px;
+  width: 79.48512268066406px;
+  height: 124.26959991455078px;
+  display: flex;
+  opacity: 0.2;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.flowstep15-vector37 {
+  top: 50.81231689453125px;
+  left: 3.242490720367641e-8px;
+  width: 79px;
+  height: 73px;
+  position: absolute;
+}
+.flowstep15-vector38 {
+  top: 0px;
+  left: 0px;
+  width: 79px;
+  height: 73px;
+  position: absolute;
+}
+.flowstep15-vector39 {
+  top: 37.58976364135742px;
+  left: 35.11529541015625px;
+  width: 16px;
+  height: 21px;
+  position: absolute;
+}
+.flowstep15-vector40 {
+  top: 109.21482849121094px;
+  left: 23.47945213317871px;
+  width: 39px;
+  height: 11px;
+  position: absolute;
+}
+.flowstep15-vector41 {
+  top: 90.5860824584961px;
+  left: 40.84703826904297px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.flowstep15-vector42 {
+  top: 67.52928924560547px;
+  left: 41.97024917602539px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.flowstep15-vector43 {
+  top: 78.89232635498047px;
+  left: 41.808006286621094px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.flowstep15-vector44 {
+  top: 124.26335906982422px;
+  left: 0.000004760742285725428px;
+  width: 86px;
+  height: 7px;
+  position: absolute;
+}
+.flowstep15-vector45 {
+  top: 0px;
+  left: 0px;
+  width: 86px;
+  height: 7px;
+  position: absolute;
+}
+.flowstep15-freepik-characterinject33 {
+  top: 67.3680648803711px;
+  left: 102.66048431396484px;
+  width: 71.14253234863281px;
+  height: 192.52169799804688px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.flowstep15-vector46 {
+  top: 173.97018432617188px;
+  left: 14.389436721801758px;
+  width: 7px;
+  height: 12px;
+  position: absolute;
+}
+.flowstep15-vector47 {
+  top: 183.70272827148438px;
+  left: 3.980073928833008px;
+  width: 16px;
+  height: 7px;
+  position: absolute;
+}
+.flowstep15-vector48 {
+  top: 173.97018432617188px;
+  left: 15.712313652038574px;
+  width: 6px;
+  height: 7px;
+  opacity: 0.2;
+  position: absolute;
+}
+.flowstep15-vector49 {
+  top: 70.33001708984375px;
+  left: 14.152314186096191px;
+  width: 36px;
+  height: 110px;
+  position: absolute;
+}
+.flowstep15-vector50 {
+  top: 80.51224517822266px;
+  left: 39.442012786865234px;
+  width: 7px;
+  height: 31px;
+  opacity: 0.3;
+  position: absolute;
+}
+.flowstep15-vector51 {
+  top: 174.0575408935547px;
+  left: 13.77791976928711px;
+  width: 10px;
+  height: 6px;
+  position: absolute;
+}
+.flowstep15-vector52 {
+  top: 182.7115936279297px;
+  left: 11.726420402526855px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.flowstep15-vector53 {
+  top: 182.00241088867188px;
+  left: 13.123079299926758px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.flowstep15-vector54 {
+  top: 30.021743774414062px;
+  left: 7.154365539550781px;
+  width: 35px;
+  height: 26px;
+  position: absolute;
+}
+.flowstep15-vector55 {
+  top: 39.479454040527344px;
+  left: 30.691627502441406px;
+  width: 9px;
+  height: 12px;
+  opacity: 0.3;
+  position: absolute;
+}
+.flowstep15-vector56 {
+  top: 36.2658576965332px;
+  left: 3.107515573501587px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+.flowstep15-vector57 {
+  top: 36.097373962402344px;
+  left: 5.597279071807861px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.flowstep15-vector58 {
+  top: 35.54825210571289px;
+  left: -0.000001647949261496251px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.flowstep15-vector59 {
+  top: 177.0839385986328px;
+  left: 46.213436126708984px;
+  width: 5px;
+  height: 11px;
+  position: absolute;
+}
+.flowstep15-vector60 {
+  top: 187.26112365722656px;
+  left: 36.47829818725586px;
+  width: 15px;
+  height: 5px;
+  position: absolute;
+}
+.flowstep15-vector61 {
+  top: 177.09017944335938px;
+  left: 46.213436126708984px;
+  width: 5px;
+  height: 6px;
+  opacity: 0.2;
+  position: absolute;
+}
+.flowstep15-vector62 {
+  top: 70.36121368408203px;
+  left: 41.36713409423828px;
+  width: 17px;
+  height: 111px;
+  position: absolute;
+}
+.flowstep15-vector63 {
+  top: 177.8701934814453px;
+  left: 43.06223678588867px;
+  width: 10px;
+  height: 3px;
+  position: absolute;
+}
+.flowstep15-vector64 {
+  top: 186.90078735351562px;
+  left: 43.47578048706055px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.flowstep15-vector65 {
+  top: 185.82711791992188px;
+  left: 44.59138488769531px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.flowstep15-vector66 {
+  top: 28.946224212646484px;
+  left: 32.38313674926758px;
+  width: 28px;
+  height: 41px;
+  position: absolute;
+}
+.flowstep15-vector67 {
+  top: 33.884857177734375px;
+  left: 56.08053970336914px;
+  width: 4px;
+  height: 12px;
+  opacity: 0.3;
+  position: absolute;
+}
+.flowstep15-group1 {
+  top: 28.939987182617188px;
+  left: 42.11178207397461px;
+  width: 11.88293743133545px;
+  height: 6.427486419677734px;
+  display: flex;
+  opacity: 0.2;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.flowstep15-vector68 {
+  top: 1.598610520362854px;
+  left: 1.4357343912124634px;
+  width: 8px;
+  height: 4px;
+  position: absolute;
+}
+.flowstep15-vector69 {
+  top: 1.7612565755844116px;
+  left: 0.7358862161636353px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.flowstep15-vector70 {
+  top: 0px;
+  left: 0px;
+  width: 12px;
+  height: 4px;
+  position: absolute;
+}
+.flowstep15-vector71 {
+  top: 17.29625129699707px;
+  left: 42.73927688598633px;
+  width: 11px;
+  height: 15px;
+  position: absolute;
+}
+.flowstep15-vector72 {
+  top: 19.630014419555664px;
+  left: 46.01375198364258px;
+  width: 4px;
+  height: 5px;
+  opacity: 0.2;
+  position: absolute;
+}
+.flowstep15-vector73 {
+  top: 6.575934886932373px;
+  left: 41.670719146728516px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.flowstep15-vector74 {
+  top: 4.944671630859375px;
+  left: 41.02737808227539px;
+  width: 14px;
+  height: 18px;
+  position: absolute;
+}
+.flowstep15-vector75 {
+  top: 0.000002868652245524572px;
+  left: 42.53374481201172px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.flowstep15-vector76 {
+  top: 5.278014183044434px;
+  left: 57.50783157348633px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.flowstep15-vector77 {
+  top: 14.457762718200684px;
+  left: 51.52131271362305px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.flowstep15-vector78 {
+  top: 11.986151695251465px;
+  left: 47.0272102355957px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.flowstep15-vector79 {
+  top: 11.162471771240234px;
+  left: 42.89153289794922px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.flowstep15-vector80 {
+  top: 12.35417652130127px;
+  left: 42.56303405761719px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.flowstep15-vector81 {
+  top: 16.11035919189453px;
+  left: 44.9946403503418px;
+  width: 3px;
+  height: 1px;
+  position: absolute;
+}
+.flowstep15-vector82 {
+  top: 10.193408966064453px;
+  left: 47.940338134765625px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.flowstep15-vector83 {
+  top: 8.537636756896973px;
+  left: 42.61064910888672px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.flowstep15-vector84 {
+  top: 29.555818557739258px;
+  left: 53.45915222167969px;
+  width: 18px;
+  height: 35px;
+  position: absolute;
+}
+.flowstep15-vector85 {
+  top: 60.77657699584961px;
+  left: 51.236637115478516px;
+  width: 6px;
+  height: 5px;
+  position: absolute;
+}
+.flowstep15-vector86 {
+  top: 60.007667541503906px;
+  left: 53.91359329223633px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.flowstep15-vector87 {
+  top: 65.31305694580078px;
+  left: 51.236637115478516px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+.flowstep15-freepik-clockinject33 {
+  top: 58.15679931640625px;
+  left: 85.7750473022461px;
+  width: 39.636474609375px;
+  height: 39.29328155517578px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.flowstep15-vector88 {
+  top: -0.000001220703097715159px;
+  left: 9.416154861450195px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.flowstep15-vector89 {
+  top: 2.5584025382995605px;
+  left: -0.000003112792910542339px;
+  width: 8px;
+  height: 10px;
+  position: absolute;
+}
+.flowstep15-vector90 {
+  top: 0.8798410892486572px;
+  left: 1.2230315208435059px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+}
+.flowstep15-vector91 {
+  top: 4.038241386413574px;
+  left: 4.386715888977051px;
+  width: 32px;
+  height: 32px;
+  opacity: 0.6;
+  position: absolute;
+}
+.flowstep15-vector92 {
+  top: 4.983643531799316px;
+  left: 5.324334621429443px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.flowstep15-vector93 {
+  top: 11.302252769470215px;
+  left: 11.645448684692383px;
+  width: 14px;
+  height: 10px;
+  position: absolute;
+}
+.flowstep15-text06 {
+  top: 271px;
+  left: 41px;
+  color: var(--dl-color-default-lightblue);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Medium;
+  text-align: center;
+  font-family: HarmonyOS Sans;
+  font-weight: 500;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep15-text07 {
+  text-decoration: NONE;
+}
+.flowstep15-text08 {
+  text-decoration: UNDERLINE;
+}
+.flowstep15-text09 {
+  text-decoration: NONE;
+}

@@ -1,0 +1,209 @@
+.flowstep13-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.flowstep13-flowstep13 {
+  width: 100%;
+  height: 640px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-lightgrey);
+}
+.flowstep13-topbar {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 4px 0px rgba(19, 19, 19, 0.10000000149011612);
+  align-items: flex-start;
+}
+.flowstep13-topbararrowback {
+  gap: 6px;
+  width: 360px;
+  height: 64px;
+  display: flex;
+  padding: 8px 4px;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-white);
+}
+.flowstep13-leadingicon {
+  gap: 10px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.flowstep13-container1 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 100px;
+  justify-content: center;
+}
+.flowstep13-statelayer {
+  gap: 10px;
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  justify-content: center;
+}
+.flowstep13-iconarrowback {
+  width: 24px;
+  height: 24px;
+}
+.flowstep13-text {
+  color: var(--dl-color-m3_sys_light-onsurface);
+  height: auto;
+  flex-grow: 1;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: HarmonyOS Sans;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep13-iconlogosafespace {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.flowstep13-iconlogo {
+  top: 12px;
+  left: 12px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.flowstep13-text02 {
+  top: 88px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  width: 312px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: HarmonyOS Sans;
+  font-weight: 500;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep13-text03 {
+  font-weight: 500;
+}
+.flowstep13-text05 {
+  font-weight: 500;
+}
+.flowstep13-button {
+  gap: 8px;
+  top: 448px;
+  left: 24px;
+  width: 312px;
+  height: 72px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(41, 111, 228, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 8px;
+  justify-content: space-between;
+}
+.flowstep13-text07 {
+  color: var(--dl-color-default-middleblue);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: HarmonyOS Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep13-button1 {
+  gap: 8px;
+  top: 544px;
+  left: 24px;
+  width: 312px;
+  height: 72px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 15px 0px rgba(5, 46, 114, 0.25);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: space-between;
+  background-color: var(--dl-color-default-middleblue);
+}
+.flowstep13-text09 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: HarmonyOS Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep13-map {
+  top: 182px;
+  left: 24px;
+  width: 312px;
+  height: 234px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 30px 0px rgba(19, 19, 19, 0.10000000149011612);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-default-white);
+}
+.flowstep13-image1 {
+  top: 0.264404296875px;
+  left: 0px;
+  width: 346px;
+  height: 234px;
+  position: absolute;
+}
+.flowstep13-rectangle9 {
+  top: -4px;
+  left: 0px;
+  width: 312px;
+  height: 242px;
+  position: absolute;
+}
+.flowstep13-vector2 {
+  top: 85px;
+  left: 66px;
+  width: 129px;
+  height: 110px;
+  position: absolute;
+}

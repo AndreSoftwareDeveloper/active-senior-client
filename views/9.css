@@ -1,0 +1,298 @@
+.flowstep09-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.flowstep09-flowstep09 {
+  width: 100%;
+  height: 640px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-lightgrey);
+}
+.flowstep09-topbar {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 4px 0px rgba(19, 19, 19, 0.10000000149011612);
+  align-items: flex-start;
+}
+.flowstep09-topbararrowback {
+  gap: 6px;
+  width: 360px;
+  height: 64px;
+  display: flex;
+  padding: 8px 4px;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-white);
+}
+.flowstep09-leadingicon {
+  gap: 10px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.flowstep09-container1 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 100px;
+  justify-content: center;
+}
+.flowstep09-statelayer {
+  gap: 10px;
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  justify-content: center;
+}
+.flowstep09-iconarrowback {
+  width: 24px;
+  height: 24px;
+}
+.flowstep09-text {
+  color: var(--dl-color-m3_sys_light-onsurface);
+  height: auto;
+  flex-grow: 1;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: HarmonyOS Sans;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep09-iconlogosafespace {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.flowstep09-iconlogo {
+  top: 12px;
+  left: 12px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.flowstep09-text02 {
+  top: 88px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  width: 312px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: HarmonyOS Sans;
+  font-weight: 500;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep09-buttontile {
+  top: 182px;
+  left: 192px;
+  width: 144px;
+  height: 144px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 30px 0px rgba(19, 19, 19, 0.10000000149011612);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-default-white);
+}
+.flowstep09-unsplash-hn0g-vzf1x-e {
+  top: 0px;
+  left: 0px;
+  width: 144px;
+  height: 144px;
+  position: absolute;
+}
+.flowstep09-rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 144px;
+  height: 144px;
+  position: absolute;
+}
+.flowstep09-frame4 {
+  gap: 4px;
+  top: 105px;
+  left: 41px;
+  width: 62px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.flowstep09-text06 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: HarmonyOS Sans;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep09-menline {
+  width: 24px;
+  height: 24px;
+}
+.flowstep09-buttontile1 {
+  top: 182px;
+  left: 24px;
+  width: 144px;
+  height: 144px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 30px 0px rgba(19, 19, 19, 0.10000000149011612);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-default-white);
+}
+.flowstep09-unsplashuz-rig22r-iw0 {
+  top: 0px;
+  left: 0px;
+  width: 144px;
+  height: 144px;
+  position: absolute;
+}
+.flowstep09-rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 144px;
+  height: 144px;
+  position: absolute;
+}
+.flowstep09-frame41 {
+  gap: 4px;
+  top: 105px;
+  left: 35px;
+  width: 75px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.flowstep09-text08 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: HarmonyOS Sans;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep09-womenline {
+  width: 24px;
+  height: 24px;
+}
+.flowstep09-buttontile2 {
+  top: 350px;
+  left: 108px;
+  width: 144px;
+  height: 144px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 30px 0px rgba(19, 19, 19, 0.10000000149011612);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-default-white);
+}
+.flowstep09-unsplash2a-yn-hw8v-afc {
+  top: 0px;
+  left: 0px;
+  width: 144px;
+  height: 144px;
+  position: absolute;
+}
+.flowstep09-rectangle71 {
+  top: 0px;
+  left: 0px;
+  width: 144px;
+  height: 144px;
+  position: absolute;
+}
+.flowstep09-frame42 {
+  gap: 4px;
+  top: 105px;
+  left: 16px;
+  width: 113px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.flowstep09-text10 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: HarmonyOS Sans;
+  font-weight: 700;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep09-button {
+  gap: 8px;
+  top: 544px;
+  left: 24px;
+  width: 312px;
+  height: 72px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 15px 0px rgba(5, 46, 114, 0.25);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: var(--dl-color-default-middleblue);
+}
+.flowstep09-text12 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: HarmonyOS Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.flowstep09-iconarrowforward {
+  width: 32px;
+  height: 32px;
+}

@@ -1,7 +1,7 @@
 const { app, BrowserWindow } = require("electron/main");
 const fetch = require("electron-fetch").default;
 
-const { alterData } = require("./alterUser");
+const { alterUser } = require("./alterUser");
 
 const urlPost = "http://127.0.0.1:8000/api/";
 const dataPost = {
@@ -21,8 +21,8 @@ const dataPatch = {
   tea: false,
 };
 
-alterData(urlPost, dataPost, "POST");
-alterData(urlPatch, dataPatch, "PATCH");
+alterUser(urlPost, dataPost, "POST");
+alterUser(urlPatch, dataPatch, "PATCH");
 
 const createWindow = () => {
   const win = new BrowserWindow({
